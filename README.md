@@ -1,14 +1,14 @@
-# STARTUP Projecy: GANsmania
+# Startup Projecy: GANsmania
 
 
 # Tasks: 
 
-•	Image scrapping 
-•	Sound (data points extraction and features) 
-•	Project build up.
-•	Platform for training GC notebook.  
-•	Model tuning, preprocessing.
-•	Interface/Streamlit
+-	Image scrapping 
+-	Sound (data points extraction and features) 
+-	Project build up.
+-	Platform for training GC notebook.  
+-	Model tuning, preprocessing.
+-	Interface/Streamlit
 
 
 
