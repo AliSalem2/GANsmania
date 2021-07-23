@@ -4,7 +4,7 @@
 # Tasks: 
 
 -	Image scrapping 
--	Sound (data points extraction and features) 
+-	Sound (data points exploration and features) 
 -	Project build up.
 -	Platform for training GC notebook.  
 -	Model tuning, preprocessing.
