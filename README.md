@@ -14,6 +14,6 @@
 
 # Data source: 
 
-we need to have a code for scraping images from online galaries specific for abstract art
+we need to have a code for scraping images from online galleries specific for abstract art
 
 
