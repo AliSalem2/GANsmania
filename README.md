@@ -1,4 +1,4 @@
-# Startup Projecy: GANsmania
+# Startup Project: GANsmania
 
 
 # Tasks: 
