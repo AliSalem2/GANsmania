@@ -1,74 +1,19 @@
-# Data analysis
-- Document here the project: GANsmania
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+# Startup Project: GANsmania
 
-Please document the project the better you can.
 
-# Startup the project
+# Tasks: 
 
-The initial setup.
+-	Image scrapping 
+-	Sound (data points exploration and features) 
+-	Project build up.
+-	Platform for training GC notebook.  
+-	Model tuning, preprocessing.
+-	Interface/Streamlit
 
-Create virtualenv and install the project:
-```bash
-sudo apt-get install virtualenv python-pip python-dev
-deactivate; virtualenv ~/venv ; source ~/venv/bin/activate ;\
-    pip install pip -U; pip install -r requirements.txt
-```
 
-Unittest test:
-```bash
-make clean install test
-```
 
-Check for GANsmania in gitlab.com/{group}.
-If your project is not set please add it:
+# Data source: 
 
-- Create a new project on `gitlab.com/{group}/GANsmania`
-- Then populate it:
+we need to have a code for scraping images from online galleries specific for abstract art
 
-```bash
-##   e.g. if group is "{group}" and project_name is "GANsmania"
-git remote add origin git@github.com:{group}/GANsmania.git
-git push -u origin master
-git push -u origin --tags
-```
 
-Functionnal test with a script:
-
-```bash
-cd
-mkdir tmp
-cd tmp
-GANsmania-run
-```
-
-# Install
-
-Go to `https://github.com/{group}/GANsmania` to see the project, manage issues,
-setup you ssh public key, ...
-
-Create a python3 virtualenv and activate it:
-
-```bash
-sudo apt-get install virtualenv python-pip python-dev
-deactivate; virtualenv -ppython3 ~/venv ; source ~/venv/bin/activate
-```
-
-Clone the project and install it:
-
-```bash
-git clone git@github.com:{group}/GANsmania.git
-cd GANsmania
-pip install -r requirements.txt
-make clean install test                # install and test
-```
-Functionnal test with a script:
-
-```bash
-cd
-mkdir tmp
-cd tmp
-GANsmania-run
-```
