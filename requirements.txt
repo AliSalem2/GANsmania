@@ -30,6 +30,7 @@ memoized-property
 termcolor
 
 pylint
+autopep8
 jupyterlab
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
