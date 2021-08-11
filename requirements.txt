@@ -28,6 +28,8 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+matplotlib
+seaborn
 
 pylint
 autopep8
@@ -35,5 +37,3 @@ jupyterlab
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 
-matplotlib
-seaborn
