@@ -17,6 +17,9 @@ In this project we will design a network of Deep learning models in order to lea
 
 
 
+
+
+
 # Tasks: 
 
 -	Image scrapping: Creating some tool to scrape images from online abstract art gallery. Using beautifulsoup or selenium if needed. Aim for it is somehwere between 50,000 to 100,000 in order we can use them in a base model.
@@ -33,3 +36,5 @@ In this project we will design a network of Deep learning models in order to lea
 we need to have a code for scraping images from online galleries specific for abstract art
 
 
+![work flow](https://user-images.githubusercontent.com/81450873/134007456-167f008a-2ab8-4136-9292-40d240004db3.jpg)
+[Anton and GANs.pptx](https://github.com/AliSalem2/GANsmania/files/7195910/Anton.and.GANs.pptx)
