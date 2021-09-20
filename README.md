@@ -1,6 +1,6 @@
 # Startup Project: GANsmania
 
-# Project layout: 
+## Project layout: 
 In this project we will design a network of Deep learning models in order to learn the construct and charatorstics of abstract images and try to replicate them by generating new images that have inherited the essence of the abstract images we trained our models on.
 
 - Stage 1: Image scrapping extracting images from open sources and online Galleries that will be the base of our training. So far we have around 10,000 images and with help of image augemtation tools we can double or tribble the number of images for training.
@@ -15,13 +15,13 @@ In this project we will design a network of Deep learning models in order to lea
 
 - Stage 6: Deploying the project to the cloud and building an interface for it to be used by users. 
 
-# Workflow: 
+##Workflow: 
 
 ![work flow](https://user-images.githubusercontent.com/81450873/134007625-3a32b015-0157-453e-9122-071b800231ed.jpg)
 
 
 
-# Tasks: 
+## Tasks: 
 
 -	Image scrapping: Creating some tool to scrape images from online abstract art gallery. Using beautifulsoup or selenium if needed. Aim for it is somehwere between 50,000 to 100,000 in order we can use them in a base model.
 -	Sound (data points exploration and features): extracting features from music or audio files
