@@ -26,15 +26,9 @@ In this project we will design a network of Deep learning models in order to lea
 -	Image scrapping: Creating some tool to scrape images from online abstract art gallery. Using beautifulsoup or selenium if needed. Aim for it is somehwere between 50,000 to 100,000 in order we can use them in a base model.
 -	Sound (data points exploration and features): extracting features from music or audio files
 -	Project build up.
--	Platform for training GC notebook.  Ideas ?
+-	Platform for training GC notebook
 -	Model tuning, data preprocessing and optimizing
 -	Interface/Streamlit
-
-
-
-# Data source: 
-
-we need to have a code for scraping images from online galleries specific for abstract art
 
 
 [Anton and GANs.pptx](https://github.com/AliSalem2/GANsmania/files/7195910/Anton.and.GANs.pptx)
