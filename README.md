@@ -15,8 +15,9 @@ In this project we will design a network of Deep learning models in order to lea
 
 - Stage 6: Deploying the project to the cloud and building an interface for it to be used by users. 
 
+# Workflow: 
 
-
+![work flow](https://user-images.githubusercontent.com/81450873/134007625-3a32b015-0157-453e-9122-071b800231ed.jpg)
 
 
 
@@ -36,5 +37,4 @@ In this project we will design a network of Deep learning models in order to lea
 we need to have a code for scraping images from online galleries specific for abstract art
 
 
-![work flow](https://user-images.githubusercontent.com/81450873/134007456-167f008a-2ab8-4136-9292-40d240004db3.jpg)
 [Anton and GANs.pptx](https://github.com/AliSalem2/GANsmania/files/7195910/Anton.and.GANs.pptx)
